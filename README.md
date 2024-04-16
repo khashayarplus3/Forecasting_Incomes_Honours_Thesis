@@ -4,8 +4,8 @@
 Research project for Econ4905( econ honours thesis), built a model to forecast graduate's incomes from canadian post secondary institutions
 Used the 2018 and 2013 version of the national graduates survey, used ETL to join the datasets and perform analysis 
 Used variables such as the student's GPA, Age at graduation, Coop participation, reputation of school, student loan status, gender, Program studied(major), Field occupied in and certification level( college, BA ...) 
-to predict their incomes using Regression analysis , Nonparametric models(KNN), hyperpaprameter testing, decision trees and other robust techniques 
-used various data visualizations to efficiently interpret the results 
+to predict their incomes using Regression analysis , Nonparametric models(KNN), hyperpaprameter testing, decision trees along other robust techniques.
+Used various data visualizations to efficiently convey the results to 
 
 **Main results:**
 GPA,higher years of schooling, coop participants, attending reputable institutions and age will
