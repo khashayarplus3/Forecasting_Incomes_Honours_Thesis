@@ -13,7 +13,7 @@ positively impact earnings of the graduates. Those with Higher levels of student
 Another significant factor was the program(major) that people studied had a large impact on incomes. This result was same 
 with the field the individual is occupied in as there is a large deviation between the incomes 
 between different occupational paths. The result also found that the year of graduation makes 
-a difference in early career incomes as graduating during an economic downturn can hindurr the graduate's incomes for almost a decade. 
+a difference in early career incomes as graduating during an economic downturn can hindur the graduate's incomes for almost a decade. 
 To see the quantitative impact of these variables, pls consult the research paper.
 
 **Organization**
